@@ -1,16 +1,39 @@
-### Hi there 👋
+<!-- Greeting Section-->
+<h1 align="center">👋 Hello, I'm Guillermo "G-mo" Villanueva</h1>
+<div align="center" >
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
+<br/>
 
-<!--
-**gmovillanueva/gmovillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About Me Section-->
+<h2 align="center">Quick Facts About Me</h2>
+<ul>
+  <li>Polyglot programmer.</li>
+  <li>Life-long learner.</li>
+  <li>Major tech enthusiast.</li>
+  <li>Pretend I wrote something witty.... Maybe?</li>
+</ul>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- LFT Section-->
+<h2 align="center">Languages, Frameworks & Tools</h2>
+<br/>
+
+<!-- Getting in Touch Section-->
+<h2 align="center">Getting in Touch</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gmodvillanueva/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40rem" alt="Contact me on LinkedIn!" title="Contact me on LinkedIn!" />
+  </a>
+</div>
+
+<br/>
+
+
+<!-- Experiment
+<details>
+  <summary><h2>Fun Tools</h2></summary>
+</details>
 -->
+
