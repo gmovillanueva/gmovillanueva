@@ -1,5 +1,5 @@
 <!-- Greeting Section-->
-<h1 align="center">👋 Hello, I'm Guillermo "G-mo" Villanueva</h1>
+<h1 align="center">👋 Hello, I'm William "G-mo" Newton</h1>
 <div align="center" >
   <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
